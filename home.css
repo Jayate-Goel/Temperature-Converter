@@ -3,7 +3,7 @@
     margin-left: 0;
 }
 body{
-    background-image: url('F:/Temperature Converter/Home Page/Images/b1.jpg');
+    background-image: url('Images/b1.jpg');
     background-size:100%,100%;
     animation:slider 50s infinite linear;
     align-items: center;
@@ -70,15 +70,15 @@ body{
     height: 100px;
 }
 @keyframes slider{
-    0%{background-image: url('F:/Temperature Converter/Home Page/Images/b2.jpg');}
-    10%{background-image: url('F:/Temperature Converter/Home Page/Images/b3.jpg');}
-    20%{background-image: url('F:/Temperature Converter/Home Page/Images/b4.jpg');}
-    30%{background-image: url('F:/Temperature Converter/Home Page/Images/b5.jpg');}
-    40%{background-image: url('F:/Temperature Converter/Home Page/Images/b6.jpg');}
-    50%{background-image: url('F:/Temperature Converter/Home Page/Images/b7.jpg');}
-    60%{background-image: url('F:/Temperature Converter/Home Page/Images/b8.jpg');}
-    70%{background-image: url('F:/Temperature Converter/Home Page/Images/b9.jpg');}
-    80%{background-image: url('F:/Temperature Converter/Home Page/Images/b10.jpg');}
-    90%{background-image: url('F:/Temperature Converter/Home Page/Images/b11.jpg');}
-    100%{background-image: url('F:/Temperature Converter/Home Page/Images/b12.jpg');}
+    0%{background-image: url('Images/b2.jpg');}
+    10%{background-image: url('Images/b3.jpg');}
+    20%{background-image: url('Images/b4.jpg');}
+    30%{background-image: url('Images/b5.jpg');}
+    40%{background-image: url('Images/b6.jpg');}
+    50%{background-image: url('Images/b7.jpg');}
+    60%{background-image: url('Images/b8.jpg');}
+    70%{background-image: url('Images/b9.jpg');}
+    80%{background-image: url('Images/b10.jpg');}
+    90%{background-image: url('Images/b11.jpg');}
+    100%{background-image: url('Images/b12.jpg');}
 }
